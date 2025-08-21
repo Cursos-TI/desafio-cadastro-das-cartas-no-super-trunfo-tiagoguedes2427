@@ -1,10 +1,12 @@
 
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
+// Desafio Super Trunfo ATUALIZADO- TEMA 2 -Países
+
 // Tema 1 - Cadastro das Cartas
 
 // TIAGO FELIPE GUEDES
+
 
 
 int main() {
